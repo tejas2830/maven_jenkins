@@ -10,7 +10,7 @@ public class helloword {
     @GetMapping(path = "/")
     public String hi(){ 
 
-      return "Hi welcome to springboot jenkins project"; 
+      return "Hi welcome to the springboot jenkins project"; 
 
     } 
 
